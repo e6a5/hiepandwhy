@@ -1,0 +1,25 @@
+[[entries]]
+title = "me"
+	
+	[[entries.entries]]
+	title = "Github"
+	url = "https://github.com/e6a5"
+	
+	[[entries.entries]]
+	title = "LinkedIn"
+	url = "https://www.linkedin.com/in/tranhiepqna/"
+
+	[[entries.entries]]
+	title = "Twitter"
+	url = "https://twitter.com/hieptran_"
+
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+

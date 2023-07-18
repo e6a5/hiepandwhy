@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Hiep Tran'
+theme = 'nostyleplease'
+[params]
+    favicon = "/favicon.ico"
+    description = "Loves reading books, learning new things, and solving problems"
+    [params.theme_config]
+        back_home_text = "◀︎◀︎"
+        show_description = true
